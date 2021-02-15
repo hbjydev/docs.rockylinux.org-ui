@@ -18,9 +18,14 @@
   }
 }
 
-.doc h1, .doc h2, .doc h3, .doc h4, .doc h5, .doc h6 {
-    font-family: var(--heading-font-family);
-    font-weight: var(--heading-font-weight) !important;
+.doc h1,
+.doc h2,
+.doc h3,
+.doc h4,
+.doc h5,
+.doc h6 {
+  font-family: var(--heading-font-family);
+  font-weight: var(--heading-font-weight) !important;
 }
 
 .doc h2,

@@ -1,40 +1,39 @@
 @font-face {
-    font-family: 'Rocky Text';
-    font-style: normal;
-    font-weight: 400;
-    src:
-        local("Rocky Text"),
-        local("RockyText"),
-        url(../font/RockyText-Regular.woff2) format("woff2")
+  font-family: 'Rocky Text';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local("Rocky Text"),
+    local("RockyText"),
+    url(../font/RockyText-Regular.woff2) format("woff2");
 }
 
 @font-face {
-    font-family: 'Rocky Text';
-    font-style: bold;
-    font-weight: 700;
-    src:
-        local("Rocky Text"),
-        local("RockyText"),
-        url(../font/RockyText-Bold.woff2) format("woff2")
+  font-family: 'Rocky Text';
+  font-style: bold;
+  font-weight: 700;
+  src:
+    local("Rocky Text"),
+    local("RockyText"),
+    url(../font/RockyText-Bold.woff2) format("woff2");
 }
 
 @font-face {
-    font-family: 'Rocky Text';
-    font-style: italic;
-    font-weight: 400;
-    src:
-        local("Rocky Text"),
-        local("RockyText"),
-        url(../font/RockyText-Italic.woff2) format("woff2")
+  font-family: 'Rocky Text';
+  font-style: italic;
+  font-weight: 400;
+  src:
+    local("Rocky Text"),
+    local("RockyText"),
+    url(../font/RockyText-Italic.woff2) format("woff2");
 }
 
 @font-face {
-    font-family: 'Rocky Display';
-    font-style: normal;
-    font-weight: 700;
-    src:
-        local("Rocky Display"),
-        local("RockyDisplay"),
-        url(../font/RockyDisplay-Bold.woff2) format("woff2")
+  font-family: 'Rocky Display';
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local("Rocky Display"),
+    local("RockyDisplay"),
+    url(../font/RockyDisplay-Bold.woff2) format("woff2");
 }
-
