@@ -35,7 +35,7 @@
   /* navbar */
   --navbar-background: #18181b;
   --navbar-font-color: var(--color-white);
-  --navbar_hover-background: rgb(39,39,42);
+  --navbar_hover-background: rgb(39, 39, 42);
   --navbar-button-background: var(--color-white);
   --navbar-button-border-color: var(--panel-border-color);
   --navbar-button-font-color: var(--body-font-color);
