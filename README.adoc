@@ -1,10 +1,10 @@
-= Antora Default UI
+= Rocky Linux Docs UI
 // Settings:
 :experimental:
 :hide-uri-scheme:
 // Project URLs:
-:url-project: https://gitlab.com/antora/antora-ui-default
-:url-preview: https://antora.gitlab.io/antora-ui-default
+:url-project: https://github.com/rocky-linux/docs.rockylinux.org-ui
+:url-preview: https://rockylinux-docs-builder.vercel.app/
 :url-ci-pipelines: {url-project}/pipelines
 :img-ci-status: {url-project}/badges/master/pipeline.svg
 // External URLs:
